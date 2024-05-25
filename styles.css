@@ -1,0 +1,25 @@
+* {color:black;
+background-color:whitesmoke;}
+
+
+
+.subheader
+ {background-color: aqua;
+    color: aliceblue;
+    border: 200px;
+margin: 30px;
+padding: 30px;}
+
+#preview
+{background-color: bisque;
+color: black;
+margin: 30px;
+border: 200px;
+padding:30px ;}
+
+.opener
+{color: white;
+background-color: black;
+padding: 35px;}
+
+
